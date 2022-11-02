@@ -1,0 +1,37 @@
+ram->  1gb
+
+vbox->
+
+ram->300 mb
+processor-> 10%
+storage-> 10%
+
+ram->300 mb
+processor-> 10%
+storage-> 10%
+
+
+virtual machine
+containers
+
+// Add some code by dev 1
+
+                                                    -> container 2
+               -> vm1 -> windows -> ms word, docker -> container 1
+hardware-> os  -> vm2 -> linux -> ....              -> container 3
+               -> vm3 -> unix  -> ....
+
+
+docker -> docker containers
+
+// dev 2 added some code here
+
+containers(standard)
+                                  -> container 1(linux)
+hardware -> os(windows) -> docker -> container 2(linux)
+                                  -> container 3(linux)
+
+/home/runner/myFirstProject
+
+
+
